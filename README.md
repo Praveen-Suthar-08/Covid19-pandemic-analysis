@@ -317,15 +317,6 @@ jupyter notebook
 
 ---
 
-## Author
-
-**Sarvesh Kumar Sharma**
-
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
-
----
-
 <p align="center">
   <a href="../README.md">← Back to repository root</a>
 </p>
